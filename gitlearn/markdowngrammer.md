@@ -38,8 +38,13 @@ if you wanna insert a enter, remember plus two or more space at the end.
 - [shit](www.baidu.com '就是一坨shit就对了')
 - ![pic](./0.jpeg 'an amazing titile')
 - [![pic](./0.jpeg '点击图片跳转')](www.baidu.com)
-- 
 
+## 脚注
+- 上标：这样^上标内容^
+- 下标：这样~下标内容~
+- 脚注：[^a]  
+  [^a]:脚注内容会被直接放在最后
+- 欧拉欧拉
 
 
 
